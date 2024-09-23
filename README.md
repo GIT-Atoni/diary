@@ -1,7 +1,7 @@
 # ![Diary](ic_launcher.png) NeoDiary [![.github/workflows/main.yml](https://github.com/billthefarmer/diary/workflows/.github/workflows/build.yml/badge.svg)](https://github.com/billthefarmer/diary/actions) [![Release](https://img.shields.io/github/release/billthefarmer/diary.svg?logo=github)](https://github.com/billthefarmer/diary/releases)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/org.billthefarmer.diary)
 
-This is my fork of billthefarmer's [diary app](https://github.com/billthefarmer/diary/releases).
+This is my fork of billthefarmer's [diary app](https://github.com/billthefarmer/diary).
 
 ***IMPORTANT***: I am a **complete newbie** at android app development. This fork was made both for fun and a way for me to learn how to do app development.
 
