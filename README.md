@@ -3,7 +3,7 @@
 
 This is my fork of billthefarmer's [diary app](https://github.com/billthefarmer/diary).
 
-***IMPORTANT***: I am a **complete newbie** at android app development. This fork was made both for fun and a way for me to learn how to do app development.
+***IMPORTANT***: I am a **complete newbie** at android app development. **I HAVE NO IDEA WHAT I AM DOING!** This fork was made mostly for fun, but it's also a way for me to learn how to do app development.
 
 ### Playing video
 Recent versions of Android may not play videos in diary entries added
