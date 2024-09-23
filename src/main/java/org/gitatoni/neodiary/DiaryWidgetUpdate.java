@@ -21,7 +21,7 @@
 //
 ///////////////////////////////////////////////////////////////////////////////
 
-package org.billthefarmer.diary;
+package org.gitatoni.neodiary;
 
 import android.app.Activity;
 import android.appwidget.AppWidgetManager;

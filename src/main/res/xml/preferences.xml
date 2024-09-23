@@ -89,7 +89,7 @@
         android:summary="@string/pref_use_index_summ"
         android:title="@string/pref_use_index" />
 
-    <org.billthefarmer.diary.DatePickerPreference
+    <org.gitatoni.neodiary.DatePickerPreference
         android:dependency="pref_use_index"
         android:dialogIcon="?attr/pref_index_page"
         android:icon="?attr/pref_index_page"
@@ -118,7 +118,7 @@
         android:summary="@string/pref_use_template_summ"
         android:title="@string/pref_use_template" />
 
-    <org.billthefarmer.diary.DatePickerPreference
+    <org.gitatoni.neodiary.DatePickerPreference
         android:dependency="pref_use_template"
         android:dialogIcon="?attr/pref_template_page"
         android:icon="?attr/pref_template_page"
@@ -169,7 +169,7 @@
       android:key="pref_about_category"
       android:title="@string/about">
 
-    <org.billthefarmer.diary.AboutPreference
+    <org.gitatoni.neodiary.AboutPreference
         android:dialogLayout="@layout/about"
         android:dialogTitle="@string/appName"
         android:icon="?attr/pref_about"

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.billthefarmer.diary;
+package org.gitatoni.neodiary;
 
 import android.content.ContentResolver;
 import android.content.ContentUris;
@@ -24,7 +24,6 @@ import android.database.Cursor;
 import android.database.DatabaseUtils;
 import android.graphics.Bitmap;
 import android.net.Uri;
-import android.os.Build;
 import android.os.Environment;
 import android.provider.DocumentsContract;
 import android.provider.MediaStore;

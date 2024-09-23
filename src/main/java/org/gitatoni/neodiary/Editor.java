@@ -19,7 +19,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-package org.billthefarmer.diary;
+package org.gitatoni.neodiary;
 
 import android.Manifest;
 import android.app.Activity;

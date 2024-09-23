@@ -19,7 +19,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-package org.billthefarmer.diary;
+package org.gitatoni.neodiary;
 
 import android.content.AsyncQueryHandler;
 import android.content.ContentResolver;

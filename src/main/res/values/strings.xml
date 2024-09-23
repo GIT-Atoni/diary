@@ -19,7 +19,7 @@
   -->
 
 <resources>
-  <string name="appName">Diary</string>
+  <string name="appName">NeoDiary</string>
   <string name="today">Today</string>
   <string name="prevEntry">Previous</string>
   <string name="nextEntry">Next</string>

@@ -25,14 +25,14 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 28
-    namespace "org.billthefarmer.diary"
+    namespace "org.gitatoni.neodiary"
 
     defaultConfig {
-        applicationId "org.billthefarmer.diary"
+        applicationId "org.gitatoni.neodiary"
         minSdkVersion 21
         targetSdkVersion 28
-        versionName "1.105"
-        versionCode 1105
+        versionName "1.0"
+        versionCode 1
 
         buildConfigField "long", "BUILT", System.currentTimeMillis() + "L"
     }
