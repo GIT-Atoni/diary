@@ -1,43 +1,7 @@
 # ![Diary](ic_launcher.png) Diary [![.github/workflows/main.yml](https://github.com/billthefarmer/diary/workflows/.github/workflows/build.yml/badge.svg)](https://github.com/billthefarmer/diary/actions) [![Release](https://img.shields.io/github/release/billthefarmer/diary.svg?logo=github)](https://github.com/billthefarmer/diary/releases)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/org.billthefarmer.diary)
 
-
-Diary is an innovative app where you could put your personal notes or
-personal journals every day. It's one of the best choices out there!
-
-If you have a habit of writing on your diary every day, a safe, simple
-and easy mobile diary app could be of great help. To date, the
-continued innovation in technology has paved the way to the
-development of paperless diary and notebooks.
-
-It will help you keep it ordered by date like a traditional journal or
-personal diary.  You can make predictions about what will happen and
-see if they come true, and you can see how you changed over time, and
-read over memories, having a few laughs.  It's the funniest, quickest
-and easiest way to document your life through a series of notes.  The
-app is available on
-[F-Droid](https://f-droid.org/packages/org.billthefarmer.diary) and
-[here](https://github.com/billthefarmer/diary/releases).
-
-![Diary](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Diary-phone.png) ![Calendar](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Calendar-phone.png)
-
-![Calendar](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Calendar-landscape.png)
-
-![Web browser](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Web.png)
-
-![Markdown](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Media-markdown.png) ![Media](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Media-phone.png)
-
-There is a
-[help](https://github.com/billthefarmer/diary/blob/master/data/help.md),
-a
-[test](https://github.com/billthefarmer/diary/blob/master/data/test.md),
-an example
-[styles](https://github.com/billthefarmer/diary/blob/master/data/styles.md)
-file, a dark theme example
-[styles](https://github.com/billthefarmer/diary/blob/master/data/dark.md)
-file, and an example
-[script](https://github.com/billthefarmer/diary/blob/master/data/script.md)
-file, which may be copied in to an entry for reference if required.
+This is my fork of billthefarmer's [diary app](https://github.com/billthefarmer/diary/releases).
 
 ### Playing video
 Recent versions of Android may not play videos in diary entries added
