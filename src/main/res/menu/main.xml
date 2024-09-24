@@ -40,6 +40,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       android:title="@string/nextEntry" />
   <item
       android:id="@+id/today"
+      android:checkable="false"
       android:icon="@drawable/ic_action_today"
       android:showAsAction="ifRoom"
       android:title="@string/today" />
