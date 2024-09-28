@@ -33,6 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       android:icon="@drawable/ic_action_previous"
       android:showAsAction="ifRoom"
       android:title="@string/prevEntry" />
+
   <item
       android:id="@+id/nextEntry"
       android:icon="@drawable/ic_action_next"
